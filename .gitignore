@@ -1,3 +1,6 @@
+## Keep .chef out:
+.chef
+
 *.gem
 *.rbc
 /.config
